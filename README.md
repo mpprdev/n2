@@ -1,2 +1,2 @@
 # n2
-docker alpine net tools
+swiss army knife of frequently used net tools based on Alpine image
